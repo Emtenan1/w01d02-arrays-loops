@@ -1,4 +1,4 @@
-# W01D05 Arrays and Loops
+# W01D02 Arrays and Loops
 
 ## Learning Objectives
 - Understand what arrays are
@@ -9,5 +9,5 @@
 
 ## Resources
 
-- [Intro to arrays repl](https://repl.it/@JaclynCasper/Puffin-Array-Intro)
-- [Loops repl](https://repl.it/@JaclynCasper/Puffin-Loops)
+- [Intro to arrays repl](https://repl.it/@JaclynCasper/Penguin-Array-Intro)
+- [Loops repl](https://repl.it/@JaclynCasper/Penguin-Loops)
